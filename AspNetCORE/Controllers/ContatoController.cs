@@ -25,6 +25,7 @@ namespace AspNetCORE.Controllers
             return new ContentResult() { Content = conteudo };
 
         }
+        //teste
 
         /*
         public IActionResult ReceberContato()
