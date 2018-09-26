@@ -30,7 +30,7 @@ namespace AspNetCORE.Controllers
                 EnviarEmail.EnviarMensagemContato(contato);
                 ViewBag.Mensagem = "Mensagem ennviada com sucesso!";
                 return View("Index");
-
+                //Teste GitHub123456
 
             }
             else
